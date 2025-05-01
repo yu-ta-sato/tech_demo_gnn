@@ -1,6 +1,6 @@
 ## 1. Presentation slides
 
-This is a page for the tech temo for Graph Representation Learning. Please check the pdf in the directory:)
+This is a page for the tech temo for Graph Representation Learning. Please check [this pdf](https://github.com/yu-ta-sato/tech_demo_gnn/blob/main/beamer-presentation/slides/main.pdf) in advance :)
 
 ## 2. Google Colab Notebook
 
