@@ -1,0 +1,1153 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{chen_2025}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=041bd113f1fc7e27c977a684fe7a61af}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Dongsheng},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8b88d61c79de60e6e1b5d44e03f5dec}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6333bac04ce3f11b6b4ef072fecfc6ea}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xun},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d4e5ebb02b7dbdc324be4e754190598}{%
+           family={Qu},
+           familyi={Q\bibinitperiod},
+           given={Mingya},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97292aa43209d76ead922d8ea69610cc}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d2a7def1e3fe5d6f7438f3016007828}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Liqiu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50d7b4d1e5b18a02cc077b104c69b6ed}
+      \strng{fullhash}{424b029dcb8e771cd420cfb315525cdd}
+      \strng{fullhashraw}{424b029dcb8e771cd420cfb315525cdd}
+      \strng{bibnamehash}{424b029dcb8e771cd420cfb315525cdd}
+      \strng{authorbibnamehash}{424b029dcb8e771cd420cfb315525cdd}
+      \strng{authornamehash}{50d7b4d1e5b18a02cc077b104c69b6ed}
+      \strng{authorfullhash}{424b029dcb8e771cd420cfb315525cdd}
+      \strng{authorfullhashraw}{424b029dcb8e771cd420cfb315525cdd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0198-9715}
+      \field{journaltitle}{Computers, Environment and Urban Systems}
+      \field{title}{Interpreting core forms of urban morphology linked to urban functions with explainable graph neural network}
+      \field{volume}{118}
+      \field{year}{2025}
+      \field{pages}{102267}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.compenvurbsys.2025.102267
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0198971525000201
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0198971525000201
+      \endverb
+      \keyw{Urban morphology,Urban function,Building configuration,Graph neural network,Explainable AI}
+    \endentry
+    \entry{fan2024neural}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=af8fff6ea5f664298b0508dff41628d7}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Chao},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=446e84a6f09f26fc6cf5730853e551ba}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07d9af951af32f994497b2aec7d8204c}{%
+           family={Mostafavi},
+           familyi={M\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{ed5de90cd4bf0598d0b3ea9bd2fa1790}
+      \strng{fullhash}{4073df42a5a11410acde626e5086be41}
+      \strng{fullhashraw}{4073df42a5a11410acde626e5086be41}
+      \strng{bibnamehash}{4073df42a5a11410acde626e5086be41}
+      \strng{authorbibnamehash}{4073df42a5a11410acde626e5086be41}
+      \strng{authornamehash}{ed5de90cd4bf0598d0b3ea9bd2fa1790}
+      \strng{authorfullhash}{4073df42a5a11410acde626e5086be41}
+      \strng{authorfullhashraw}{4073df42a5a11410acde626e5086be41}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humanities and Social Sciences Communications}
+      \field{title}{Neural embeddings of urban big data reveal spatial structures in cities}
+      \field{volume}{11}
+      \field{year}{2024}
+      \field{pages}{409}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1057/s41599-024-02917-6
+      \endverb
+    \endentry
+    \entry{hamiltonyl17}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2abce6c40b4cc1a3d89f175883b24536}{%
+           family={Hamilton},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima L.},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b37c8aefa150635663b2a6525952a7a}{%
+           family={Ying},
+           familyi={Y\bibinitperiod},
+           given={Rex},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=900d107125ff0ca84698cb909e4f6c51}{%
+           family={Leskovec},
+           familyi={L\bibinitperiod},
+           given={Jure},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{272631a74039af14ab15f43cfaad8c7f}
+      \strng{fullhash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{fullhashraw}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{bibnamehash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{authorbibnamehash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{authornamehash}{272631a74039af14ab15f43cfaad8c7f}
+      \strng{authorfullhash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{authorfullhashraw}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{Inductive Representation Learning on Large Graphs}
+      \field{volume}{abs/1706.02216}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb 1706.02216
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1706.02216
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1706.02216
+      \endverb
+    \endentry
+    \entry{kipf2016semi}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=26d8bcbda6afaf96334bf47c8fb88a75}{%
+           family={Kipf},
+           familyi={K\bibinitperiod},
+           given={Thomas\bibnamedelima N},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53d2880ad8047b61cdae2c6b2803e763}{%
+           family={Welling},
+           familyi={W\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{fullhash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{fullhashraw}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{bibnamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorbibnamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authornamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorfullhash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorfullhashraw}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1609.02907}
+      \field{title}{Semi-supervised classification with graph convolutional networks}
+      \field{year}{2016}
+    \endentry
+    \entry{kipf2016variationalgraphautoencoders}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=26d8bcbda6afaf96334bf47c8fb88a75}{%
+           family={Kipf},
+           familyi={K\bibinitperiod},
+           given={Thomas\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53d2880ad8047b61cdae2c6b2803e763}{%
+           family={Welling},
+           familyi={W\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{fullhash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{fullhashraw}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{bibnamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorbibnamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authornamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorfullhash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorfullhashraw}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{stat.ML}
+      \field{eprinttype}{arXiv}
+      \field{title}{Variational Graph Auto-Encoders}
+      \field{year}{2016}
+      \verb{eprint}
+      \verb 1611.07308
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1611.07308
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1611.07308
+      \endverb
+    \endentry
+    \entry{liu2023graphpoolinggraphneural}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=1,uniquepart=given,hash=2069ae3ae188262d66ed8e61d78aac2b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Chuang},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=c073e42ae7c927c935762e29509b642e}{%
+           family={Zhan},
+           familyi={Z\bibinitperiod},
+           given={Yibing},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cecf65b3c7f3407db3d54a3f9966210}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd3b37966ea3296c8718b5b96f0195bc}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Chang},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb482f65052ae3fd62547593e324f0d0}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4103db956831a7a78f7b036098c9b83f}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Wenbin},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63fd394717cccfabe1cc081a643b09ea}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Tongliang},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f15b34a2bc944a9f055fd6e2e3a7c460}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Dacheng},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50c8c3816c6024d4217bd1ecf11f1081}
+      \strng{fullhash}{ce7bb8a036dcf62deec5643373263216}
+      \strng{fullhashraw}{ce7bb8a036dcf62deec5643373263216}
+      \strng{bibnamehash}{ce7bb8a036dcf62deec5643373263216}
+      \strng{authorbibnamehash}{ce7bb8a036dcf62deec5643373263216}
+      \strng{authornamehash}{50c8c3816c6024d4217bd1ecf11f1081}
+      \strng{authorfullhash}{ce7bb8a036dcf62deec5643373263216}
+      \strng{authorfullhashraw}{ce7bb8a036dcf62deec5643373263216}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.LG}
+      \field{eprinttype}{arXiv}
+      \field{title}{Graph Pooling for Graph Neural Networks: Progress, Challenges, and Opportunities}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2204.07321
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2204.07321
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2204.07321
+      \endverb
+    \endentry
+    \entry{porta_network_2006}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=99d7c59b9e48e58c18842ad39bf0205c}{%
+           family={Porta},
+           familyi={P\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=304c1921644bb5119f2d0ccae5fc2fdf}{%
+           family={Crucitti},
+           familyi={C\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=078821b95c399c4ffd8297cb26a8beb5}{%
+           family={Latora},
+           familyi={L\bibinitperiod},
+           given={Vito},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a3b3f91998b53d639f967519b3c3c2b1}
+      \strng{fullhash}{f495fece2a4b2984a2d9b2fd0b8ce224}
+      \strng{fullhashraw}{f495fece2a4b2984a2d9b2fd0b8ce224}
+      \strng{bibnamehash}{f495fece2a4b2984a2d9b2fd0b8ce224}
+      \strng{authorbibnamehash}{f495fece2a4b2984a2d9b2fd0b8ce224}
+      \strng{authornamehash}{a3b3f91998b53d639f967519b3c3c2b1}
+      \strng{authorfullhash}{f495fece2a4b2984a2d9b2fd0b8ce224}
+      \strng{authorfullhashraw}{f495fece2a4b2984a2d9b2fd0b8ce224}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The network metaphor in the analysis of urban and territorial cases has a long tradition, especially in transportation or land-use planning and economic geography. More recently, urban design has brought its contribution by means of the ‘space syntax’ methodology. All these approaches-though under different terms like ‘accessibility’, ‘proximity’, ‘integration’ ‘connectivity’, ‘cost’, or ‘effort’-focus on the idea that some places (or streets) are more important than others because they are more central. The study of centrality in complex systems, however, originated in other scientific areas, namely in structural sociology, well before its use in urban studies; moreover, as a structural property of the system, centrality has never been extensively investigated metrically in geographic networks as it has been topologically in a wide range of other relational networks such as social, biological, or technological ones. After a previous work on some structural properties of the primal graph representation of urban street networks, in this paper we provide an in-depth investigation of centrality in the primal approach as compared with the dual one. We introduce multiple centrality assessment (MCA), a methodology for geographic network analysis, which is defined and implemented on four 1-square-mile urban street systems. MCA provides a different perspective from space syntax in that: (1) it is based on primal, rather than dual, street graphs; (2) it works within a metric, rather than topological, framework; (3) it investigates a plurality of peer centrality indices rather than a single index. We show that, in the MCA primal approach, much more than in the dual approach, some centrality indices nicely capture the ‘skeleton’ of the urban structure that impacts so much on spatial cognition and collective behaviours. Moreover, the distributions of centrality in self-organized cities are different from those in planned cities.}
+      \field{issn}{0265-8135, 1472-3417}
+      \field{journaltitle}{Environment and Planning B: Planning and Design}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shorttitle}{The {Network} {Analysis} of {Urban} {Streets}}
+      \field{title}{The {Network} {Analysis} of {Urban} {Streets}: {A} {Primal} {Approach}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{33}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{705\bibrangedash 725}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1068/b32045
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1068/b32045
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1068/b32045
+      \endverb
+      \keyw{notion}
+    \endentry
+    \entry{De_Sabbata02122023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b931f7f187c9902c484102a1bd0e441d}{%
+           family={Sabbata},
+           familyi={S\bibinitperiod},
+           given={Stefano\bibnamedelima De},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=ea1165d58aff06c08a0b0ea27f1076e8}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Pengyuan},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{54cadb619f38346adc3398e72a43c67f}
+      \strng{fullhash}{54cadb619f38346adc3398e72a43c67f}
+      \strng{fullhashraw}{54cadb619f38346adc3398e72a43c67f}
+      \strng{bibnamehash}{54cadb619f38346adc3398e72a43c67f}
+      \strng{authorbibnamehash}{54cadb619f38346adc3398e72a43c67f}
+      \strng{authornamehash}{54cadb619f38346adc3398e72a43c67f}
+      \strng{authorfullhash}{54cadb619f38346adc3398e72a43c67f}
+      \strng{authorfullhashraw}{54cadb619f38346adc3398e72a43c67f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Geographical Information Science}
+      \field{number}{12}
+      \field{title}{A graph neural network framework for spatial geodemographic classification}
+      \field{volume}{37}
+      \field{year}{2023}
+      \field{pages}{2464\bibrangedash 2486}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1080/13658816.2023.2254382
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/13658816.2023.2254382
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/13658816.2023.2254382
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/13658816.2023.2254382
+      \endverb
+    \endentry
+    \entry{velivckovic2017graph}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=b1208a71c9b067bcef8fb29c15a09b5d}{%
+           family={Veličković},
+           familyi={V\bibinitperiod},
+           given={Petar},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c30bc5878e196747275a7ff581c6ed22}{%
+           family={Cucurull},
+           familyi={C\bibinitperiod},
+           given={Guillem},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a0765951987db22af274a31732111fa}{%
+           family={Casanova},
+           familyi={C\bibinitperiod},
+           given={Arantxa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e0f06556535de7b7d9d04d390dc4ac3}{%
+           family={Romero},
+           familyi={R\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=428d424e2bc446d7420e2cf047380cf0}{%
+           family={Lio},
+           familyi={L\bibinitperiod},
+           given={Pietro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a923132f6a9d7d93c40facfd855c7dc4}
+      \strng{fullhash}{10c5317cae500b80383feed533a8f79e}
+      \strng{fullhashraw}{10c5317cae500b80383feed533a8f79e}
+      \strng{bibnamehash}{10c5317cae500b80383feed533a8f79e}
+      \strng{authorbibnamehash}{10c5317cae500b80383feed533a8f79e}
+      \strng{authornamehash}{a923132f6a9d7d93c40facfd855c7dc4}
+      \strng{authorfullhash}{10c5317cae500b80383feed533a8f79e}
+      \strng{authorfullhashraw}{10c5317cae500b80383feed533a8f79e}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1710.10903}
+      \field{title}{Graph attention networks}
+      \field{year}{2017}
+    \endentry
+    \entry{yun2019graph}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=231fe6024033a18096adb0465aa3a550}{%
+           family={Yun},
+           familyi={Y\bibinitperiod},
+           given={Seongjun},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e11cfb772d3ebadf765c250429a8aae2}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Minbyul},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58ffbc0a6ae471a63f860d504a30e54d}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Raehyun},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e78ec4678faa85f642776c14d3877113}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Jaewoo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4babf6b2e831d39e02a7245894f23b9b}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hyunwoo\bibnamedelima J},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e192cfe83618a9f0efe87dc37d2141da}
+      \strng{fullhash}{6fc8b1a6d0ac367eb15a26e5dd9c79c1}
+      \strng{fullhashraw}{6fc8b1a6d0ac367eb15a26e5dd9c79c1}
+      \strng{bibnamehash}{6fc8b1a6d0ac367eb15a26e5dd9c79c1}
+      \strng{authorbibnamehash}{6fc8b1a6d0ac367eb15a26e5dd9c79c1}
+      \strng{authornamehash}{e192cfe83618a9f0efe87dc37d2141da}
+      \strng{authorfullhash}{6fc8b1a6d0ac367eb15a26e5dd9c79c1}
+      \strng{authorfullhashraw}{6fc8b1a6d0ac367eb15a26e5dd9c79c1}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in neural information processing systems}
+      \field{title}{Graph transformer networks}
+      \field{volume}{32}
+      \field{year}{2019}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{chen_2025}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=041bd113f1fc7e27c977a684fe7a61af}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Dongsheng},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8b88d61c79de60e6e1b5d44e03f5dec}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6333bac04ce3f11b6b4ef072fecfc6ea}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xun},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d4e5ebb02b7dbdc324be4e754190598}{%
+           family={Qu},
+           familyi={Q\bibinitperiod},
+           given={Mingya},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97292aa43209d76ead922d8ea69610cc}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d2a7def1e3fe5d6f7438f3016007828}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Liqiu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50d7b4d1e5b18a02cc077b104c69b6ed}
+      \strng{fullhash}{424b029dcb8e771cd420cfb315525cdd}
+      \strng{fullhashraw}{424b029dcb8e771cd420cfb315525cdd}
+      \strng{bibnamehash}{424b029dcb8e771cd420cfb315525cdd}
+      \strng{authorbibnamehash}{424b029dcb8e771cd420cfb315525cdd}
+      \strng{authornamehash}{50d7b4d1e5b18a02cc077b104c69b6ed}
+      \strng{authorfullhash}{424b029dcb8e771cd420cfb315525cdd}
+      \strng{authorfullhashraw}{424b029dcb8e771cd420cfb315525cdd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0198-9715}
+      \field{journaltitle}{Computers, Environment and Urban Systems}
+      \field{title}{Interpreting core forms of urban morphology linked to urban functions with explainable graph neural network}
+      \field{volume}{118}
+      \field{year}{2025}
+      \field{pages}{102267}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.compenvurbsys.2025.102267
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0198971525000201
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0198971525000201
+      \endverb
+      \keyw{Urban morphology,Urban function,Building configuration,Graph neural network,Explainable AI}
+    \endentry
+    \entry{fan2024neural}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=af8fff6ea5f664298b0508dff41628d7}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Chao},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=446e84a6f09f26fc6cf5730853e551ba}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07d9af951af32f994497b2aec7d8204c}{%
+           family={Mostafavi},
+           familyi={M\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{ed5de90cd4bf0598d0b3ea9bd2fa1790}
+      \strng{fullhash}{4073df42a5a11410acde626e5086be41}
+      \strng{fullhashraw}{4073df42a5a11410acde626e5086be41}
+      \strng{bibnamehash}{4073df42a5a11410acde626e5086be41}
+      \strng{authorbibnamehash}{4073df42a5a11410acde626e5086be41}
+      \strng{authornamehash}{ed5de90cd4bf0598d0b3ea9bd2fa1790}
+      \strng{authorfullhash}{4073df42a5a11410acde626e5086be41}
+      \strng{authorfullhashraw}{4073df42a5a11410acde626e5086be41}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humanities and Social Sciences Communications}
+      \field{title}{Neural embeddings of urban big data reveal spatial structures in cities}
+      \field{volume}{11}
+      \field{year}{2024}
+      \field{pages}{409}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1057/s41599-024-02917-6
+      \endverb
+    \endentry
+    \entry{hamiltonyl17}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2abce6c40b4cc1a3d89f175883b24536}{%
+           family={Hamilton},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima L.},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b37c8aefa150635663b2a6525952a7a}{%
+           family={Ying},
+           familyi={Y\bibinitperiod},
+           given={Rex},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=900d107125ff0ca84698cb909e4f6c51}{%
+           family={Leskovec},
+           familyi={L\bibinitperiod},
+           given={Jure},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{272631a74039af14ab15f43cfaad8c7f}
+      \strng{fullhash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{fullhashraw}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{bibnamehash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{authorbibnamehash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{authornamehash}{272631a74039af14ab15f43cfaad8c7f}
+      \strng{authorfullhash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{authorfullhashraw}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{Inductive Representation Learning on Large Graphs}
+      \field{volume}{abs/1706.02216}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb 1706.02216
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1706.02216
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1706.02216
+      \endverb
+    \endentry
+    \entry{kipf2016semi}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=26d8bcbda6afaf96334bf47c8fb88a75}{%
+           family={Kipf},
+           familyi={K\bibinitperiod},
+           given={Thomas\bibnamedelima N},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53d2880ad8047b61cdae2c6b2803e763}{%
+           family={Welling},
+           familyi={W\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{fullhash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{fullhashraw}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{bibnamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorbibnamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authornamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorfullhash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorfullhashraw}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1609.02907}
+      \field{title}{Semi-supervised classification with graph convolutional networks}
+      \field{year}{2016}
+    \endentry
+    \entry{kipf2016variationalgraphautoencoders}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=26d8bcbda6afaf96334bf47c8fb88a75}{%
+           family={Kipf},
+           familyi={K\bibinitperiod},
+           given={Thomas\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53d2880ad8047b61cdae2c6b2803e763}{%
+           family={Welling},
+           familyi={W\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{fullhash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{fullhashraw}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{bibnamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorbibnamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authornamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorfullhash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorfullhashraw}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{stat.ML}
+      \field{eprinttype}{arXiv}
+      \field{title}{Variational Graph Auto-Encoders}
+      \field{year}{2016}
+      \verb{eprint}
+      \verb 1611.07308
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1611.07308
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1611.07308
+      \endverb
+    \endentry
+    \entry{liu2023graphpoolinggraphneural}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=1,uniquepart=given,hash=2069ae3ae188262d66ed8e61d78aac2b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Chuang},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=c073e42ae7c927c935762e29509b642e}{%
+           family={Zhan},
+           familyi={Z\bibinitperiod},
+           given={Yibing},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cecf65b3c7f3407db3d54a3f9966210}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd3b37966ea3296c8718b5b96f0195bc}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Chang},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb482f65052ae3fd62547593e324f0d0}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4103db956831a7a78f7b036098c9b83f}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Wenbin},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63fd394717cccfabe1cc081a643b09ea}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Tongliang},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f15b34a2bc944a9f055fd6e2e3a7c460}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Dacheng},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50c8c3816c6024d4217bd1ecf11f1081}
+      \strng{fullhash}{ce7bb8a036dcf62deec5643373263216}
+      \strng{fullhashraw}{ce7bb8a036dcf62deec5643373263216}
+      \strng{bibnamehash}{ce7bb8a036dcf62deec5643373263216}
+      \strng{authorbibnamehash}{ce7bb8a036dcf62deec5643373263216}
+      \strng{authornamehash}{50c8c3816c6024d4217bd1ecf11f1081}
+      \strng{authorfullhash}{ce7bb8a036dcf62deec5643373263216}
+      \strng{authorfullhashraw}{ce7bb8a036dcf62deec5643373263216}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.LG}
+      \field{eprinttype}{arXiv}
+      \field{title}{Graph Pooling for Graph Neural Networks: Progress, Challenges, and Opportunities}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2204.07321
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2204.07321
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2204.07321
+      \endverb
+    \endentry
+    \entry{porta_network_2006}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=99d7c59b9e48e58c18842ad39bf0205c}{%
+           family={Porta},
+           familyi={P\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=304c1921644bb5119f2d0ccae5fc2fdf}{%
+           family={Crucitti},
+           familyi={C\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=078821b95c399c4ffd8297cb26a8beb5}{%
+           family={Latora},
+           familyi={L\bibinitperiod},
+           given={Vito},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a3b3f91998b53d639f967519b3c3c2b1}
+      \strng{fullhash}{f495fece2a4b2984a2d9b2fd0b8ce224}
+      \strng{fullhashraw}{f495fece2a4b2984a2d9b2fd0b8ce224}
+      \strng{bibnamehash}{f495fece2a4b2984a2d9b2fd0b8ce224}
+      \strng{authorbibnamehash}{f495fece2a4b2984a2d9b2fd0b8ce224}
+      \strng{authornamehash}{a3b3f91998b53d639f967519b3c3c2b1}
+      \strng{authorfullhash}{f495fece2a4b2984a2d9b2fd0b8ce224}
+      \strng{authorfullhashraw}{f495fece2a4b2984a2d9b2fd0b8ce224}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The network metaphor in the analysis of urban and territorial cases has a long tradition, especially in transportation or land-use planning and economic geography. More recently, urban design has brought its contribution by means of the ‘space syntax’ methodology. All these approaches-though under different terms like ‘accessibility’, ‘proximity’, ‘integration’ ‘connectivity’, ‘cost’, or ‘effort’-focus on the idea that some places (or streets) are more important than others because they are more central. The study of centrality in complex systems, however, originated in other scientific areas, namely in structural sociology, well before its use in urban studies; moreover, as a structural property of the system, centrality has never been extensively investigated metrically in geographic networks as it has been topologically in a wide range of other relational networks such as social, biological, or technological ones. After a previous work on some structural properties of the primal graph representation of urban street networks, in this paper we provide an in-depth investigation of centrality in the primal approach as compared with the dual one. We introduce multiple centrality assessment (MCA), a methodology for geographic network analysis, which is defined and implemented on four 1-square-mile urban street systems. MCA provides a different perspective from space syntax in that: (1) it is based on primal, rather than dual, street graphs; (2) it works within a metric, rather than topological, framework; (3) it investigates a plurality of peer centrality indices rather than a single index. We show that, in the MCA primal approach, much more than in the dual approach, some centrality indices nicely capture the ‘skeleton’ of the urban structure that impacts so much on spatial cognition and collective behaviours. Moreover, the distributions of centrality in self-organized cities are different from those in planned cities.}
+      \field{issn}{0265-8135, 1472-3417}
+      \field{journaltitle}{Environment and Planning B: Planning and Design}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shorttitle}{The {Network} {Analysis} of {Urban} {Streets}}
+      \field{title}{The {Network} {Analysis} of {Urban} {Streets}: {A} {Primal} {Approach}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{33}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{705\bibrangedash 725}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1068/b32045
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1068/b32045
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1068/b32045
+      \endverb
+      \keyw{notion}
+    \endentry
+    \entry{De_Sabbata02122023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b931f7f187c9902c484102a1bd0e441d}{%
+           family={Sabbata},
+           familyi={S\bibinitperiod},
+           given={Stefano\bibnamedelima De},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=ea1165d58aff06c08a0b0ea27f1076e8}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Pengyuan},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{54cadb619f38346adc3398e72a43c67f}
+      \strng{fullhash}{54cadb619f38346adc3398e72a43c67f}
+      \strng{fullhashraw}{54cadb619f38346adc3398e72a43c67f}
+      \strng{bibnamehash}{54cadb619f38346adc3398e72a43c67f}
+      \strng{authorbibnamehash}{54cadb619f38346adc3398e72a43c67f}
+      \strng{authornamehash}{54cadb619f38346adc3398e72a43c67f}
+      \strng{authorfullhash}{54cadb619f38346adc3398e72a43c67f}
+      \strng{authorfullhashraw}{54cadb619f38346adc3398e72a43c67f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Geographical Information Science}
+      \field{number}{12}
+      \field{title}{A graph neural network framework for spatial geodemographic classification}
+      \field{volume}{37}
+      \field{year}{2023}
+      \field{pages}{2464\bibrangedash 2486}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1080/13658816.2023.2254382
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/13658816.2023.2254382
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/13658816.2023.2254382
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/13658816.2023.2254382
+      \endverb
+    \endentry
+    \entry{velivckovic2017graph}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=b1208a71c9b067bcef8fb29c15a09b5d}{%
+           family={Veličković},
+           familyi={V\bibinitperiod},
+           given={Petar},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c30bc5878e196747275a7ff581c6ed22}{%
+           family={Cucurull},
+           familyi={C\bibinitperiod},
+           given={Guillem},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a0765951987db22af274a31732111fa}{%
+           family={Casanova},
+           familyi={C\bibinitperiod},
+           given={Arantxa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e0f06556535de7b7d9d04d390dc4ac3}{%
+           family={Romero},
+           familyi={R\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=428d424e2bc446d7420e2cf047380cf0}{%
+           family={Lio},
+           familyi={L\bibinitperiod},
+           given={Pietro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a923132f6a9d7d93c40facfd855c7dc4}
+      \strng{fullhash}{10c5317cae500b80383feed533a8f79e}
+      \strng{fullhashraw}{10c5317cae500b80383feed533a8f79e}
+      \strng{bibnamehash}{10c5317cae500b80383feed533a8f79e}
+      \strng{authorbibnamehash}{10c5317cae500b80383feed533a8f79e}
+      \strng{authornamehash}{a923132f6a9d7d93c40facfd855c7dc4}
+      \strng{authorfullhash}{10c5317cae500b80383feed533a8f79e}
+      \strng{authorfullhashraw}{10c5317cae500b80383feed533a8f79e}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1710.10903}
+      \field{title}{Graph attention networks}
+      \field{year}{2017}
+    \endentry
+    \entry{yun2019graph}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=231fe6024033a18096adb0465aa3a550}{%
+           family={Yun},
+           familyi={Y\bibinitperiod},
+           given={Seongjun},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e11cfb772d3ebadf765c250429a8aae2}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Minbyul},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58ffbc0a6ae471a63f860d504a30e54d}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Raehyun},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e78ec4678faa85f642776c14d3877113}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Jaewoo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4babf6b2e831d39e02a7245894f23b9b}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hyunwoo\bibnamedelima J},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e192cfe83618a9f0efe87dc37d2141da}
+      \strng{fullhash}{6fc8b1a6d0ac367eb15a26e5dd9c79c1}
+      \strng{fullhashraw}{6fc8b1a6d0ac367eb15a26e5dd9c79c1}
+      \strng{bibnamehash}{6fc8b1a6d0ac367eb15a26e5dd9c79c1}
+      \strng{authorbibnamehash}{6fc8b1a6d0ac367eb15a26e5dd9c79c1}
+      \strng{authornamehash}{e192cfe83618a9f0efe87dc37d2141da}
+      \strng{authorfullhash}{6fc8b1a6d0ac367eb15a26e5dd9c79c1}
+      \strng{authorfullhashraw}{6fc8b1a6d0ac367eb15a26e5dd9c79c1}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in neural information processing systems}
+      \field{title}{Graph transformer networks}
+      \field{volume}{32}
+      \field{year}{2019}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
