@@ -1,4 +1,4 @@
-# Presentation slides
+## Presentation slides
 
 This is a page for the tech temo for Graph Representation Learning. Please check the pdf in the directory:)
 
